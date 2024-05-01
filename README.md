@@ -9,3 +9,5 @@ Last updated on April 30th 2024
 This's the first contribution I made on GitHub, simply put my name on the contributers list then push and merge to the main branch.
 
 Link: https://github.com/firstcontributions/first-contributions
+
+# freeCodeCamp Artical Translation
